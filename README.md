@@ -81,6 +81,9 @@
      ```
      CEREBRAS_API_KEY=your_key_here
      ```
+   - api key 申請網站：https://cloud.cerebras.ai/platform/org_jyy6f2eferyhxmxrde6ch28p/playground
+   - model suggest : gpt-oss-120b	, qwen-3-235b-a22b-thinking-2507	
+   - 此project 沒有api router ，可自建api router
    - 所有 Python 模組與 Shell 腳本會自動載入 `.env`。
 4. **資料檔案**
    - Graph GA 預設使用 `/home/luketou/LLM_AI_agent/Agent_predictor/data/guacamol_v1_all.txt` 作為初始 SMILES。若路徑不同，請在呼叫工具時於 `params` 中覆蓋 `smi_file`。
