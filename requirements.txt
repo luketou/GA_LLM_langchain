@@ -17,6 +17,7 @@ av==14.1.0
 awscli==1.37.6
 bayesian-optimization @ file:///home/conda/feedstock_root/build_artifacts/bayesian-optimization_1734954879162/work
 beartype==0.17.2
+beautifulsoup4==4.13.4
 bitsandbytes==0.41.1
 blake3==1.0.4
 boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1733827268945/work
@@ -42,6 +43,7 @@ contourpy @ file:///home/conda/feedstock_root/build_artifacts/contourpy_17272935
 cryptography==44.0.0
 cupy @ file:///home/conda/feedstock_root/build_artifacts/cupy-split_1729277649517/work
 cupy-cuda12x==13.4.1
+curl_cffi==0.11.4
 cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1733332471406/work
 dataclasses-json==0.6.7
 datasets==2.19.2
@@ -61,6 +63,7 @@ einx==0.3.0
 email_validator==2.2.0
 eval_type_backport==0.2.2
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1733208806608/work
+faiss-gpu==1.7.2
 fastapi==0.115.7
 fastapi-cli==0.0.7
 fastrlock @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_fastrlock_1734873416/work
@@ -153,6 +156,7 @@ llguidance==0.7.11
 llvmlite==0.43.0
 lm-format-enforcer==0.10.11
 local-attention==1.9.3
+logdecorator==2.4
 loguru==0.7.3
 Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1710435156458/work
 markdown-it-py @ file:///home/conda/feedstock_root/build_artifacts/markdown-it-py_1733250460757/work
@@ -169,6 +173,7 @@ msgpack @ file:///home/conda/feedstock_root/build_artifacts/msgpack-python_17259
 msgspec==0.19.0
 multidict @ file:///home/conda/feedstock_root/build_artifacts/multidict_1733913043842/work
 multiprocess==0.70.16
+multitasking==0.0.11
 munkres==1.1.4
 mypy-extensions==1.0.0
 namex @ file:///home/conda/feedstock_root/build_artifacts/namex_1733858070416/work
@@ -203,6 +208,7 @@ outlines_core==0.1.26
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1733203243479/work
 pandas @ file:///home/conda/feedstock_root/build_artifacts/pandas_1736810577256/work
 partial-json-parser==0.2.1.1.post5
+peewee==3.18.1
 peft==0.15.0
 pendulum==3.0.0
 pillow @ file:///croot/pillow_1738010226202/work
@@ -283,6 +289,7 @@ six @ file:///home/conda/feedstock_root/build_artifacts/six_1733380938961/work
 skypilot==0.4.1
 sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1733244044561/work
 soundfile==0.13.1
+soupsieve==2.7
 soxr==0.5.0.post1
 SQLAlchemy @ file:///home/conda/feedstock_root/build_artifacts/sqlalchemy_1738913127622/work
 sse-starlette==1.8.2
@@ -332,13 +339,14 @@ vllm==0.8.2
 watchfiles==1.0.4
 wcwidth==0.2.13
 websocket-client==1.8.0
-websockets==12.0
+websockets @ file:///home/conda/feedstock_root/build_artifacts/websockets_1741285452944/work
 Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1733160440960/work
 wrapt @ file:///home/conda/feedstock_root/build_artifacts/wrapt_1736869460534/work
 xformers==0.0.29.post2
 xgrammar==0.1.16
 xxhash==3.5.0
 yarl @ file:///home/conda/feedstock_root/build_artifacts/yarl_1737575777699/work
+yfinance==0.2.65
 zetascale==2.2.7
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work
 zstandard==0.23.0
