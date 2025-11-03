@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-#PBS -l select=1:ncpus=4:ngpus=1
+#PBS -l select=1:ncpus=1:ngpus=1
 #PBS -l place=vscatter:shared
 #PBS -q gpu
 #PBS -j oe
